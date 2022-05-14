@@ -1,2 +1,2 @@
 # LeetCode_mysql
-LeetCode mysql solutions module 1
+LeetCode mysql solutions SQL 1
